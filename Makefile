@@ -9,6 +9,7 @@ install-arch:
 	@echo -n "Type the name of your system user (root, joe, etc..): "
 	@read username; \
 	echo "W3FILES_USER=\""$$username"\"" > /etc/conf.d/w3files.conf
+	@echo "Configuration has been saved to /etc/conf.d/w3files.conf"
 
 	@$(MAKE) install -s
 	cp arch/rc.d /etc/rc.d/w3d
