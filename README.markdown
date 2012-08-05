@@ -16,6 +16,9 @@ $ make install-arch
 $ /etc/rc.d/w3d start
 ```
 
+# Usage Example
+
+* [github.com/azer/w3files](https://github.com/azer/w3files)
 
 # Credits
 
