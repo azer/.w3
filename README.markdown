@@ -9,7 +9,7 @@ If you navigate to http://www.wikipedia.org, `~/.w3/wikipedia.org.js` and `~/.w3
 
 Python3+ is needed to serve the files under ~/.w3 via `python -m http.server` command.
 
-## Arch Linux
+### Arch Linux
 
 ```bash
 $ make install-arch
