@@ -1,0 +1,1 @@
+cd ~/.w3 && python -m http.server 3132

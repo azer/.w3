@@ -1,0 +1,18 @@
+{
+  "name": ".w3",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Execute JS and CSS files in ~/.w3 based on their filename.",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "content_scripts": [{
+    "matches":    ["http://*/*", "https://*/*"],
+    "all_frames": true,
+    "run_at":     "document_start",
+    "js":         ["jquery.js", "w3.js"]
+  }],
+  "permissions": [
+    "file://*"
+  ]
+}
