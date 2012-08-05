@@ -1,11 +1,9 @@
-# .w3
+A Google Chrome extension that executes JavaScript and CSS files in `~/.w3`, based on their filename.
+If you navigate to http://www.wikipedia.org, `~/.w3/wikipedia.org.js` and `~/.w3/wikipedia.org.css` will be included within the all pages.
 
-A Google Chrome extension that executes JavaScript and CSS files in ~/.w3 based on their filename.
-If you navigate to http://www.wikipedia.org, dotjs will execute ~/.w3/wikipedia.org.js and ~/.w3/wikipedia.org.css
+**Supported OS/Distro:** Arch Linux
 
-**Supported OS/Distro:* Arch Linux
-
-![](https://dl.dropbox.com/s/mk5ct83h8eyag8i/beat3.jpg)
+![](https://dl.dropbox.com/s/5a1gjs15o49uyeg/beat3_sm.jpg)
 
 # Install
 
