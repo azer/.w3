@@ -22,4 +22,4 @@ $ /etc/rc.d/w3d start
 
 # Credits
 
-Inspired from and based on [defunkt/dotjs](http://github.com/defunkt/dotjs).
+Inspired from and based on [defunkt/dotjs](http://github.com/defunkt/dotjs) and [stewart/dotcss](https://github.com/stewart/dotcss/).
