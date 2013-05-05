@@ -1,4 +1,4 @@
-Chrome extension to customize the web with **JS**&**CSS** files organized under `~/.w3`.
+Chrome extension to customize the web with **JS** & **CSS** files organized under `~/.w3`.
 
 Example `.w3` directory;
 ```bash
