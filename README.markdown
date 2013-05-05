@@ -1,6 +1,10 @@
-A Google Chrome extension that executes JavaScript and CSS files in `~/.w3`, based on their filename.
-If you navigate to http://www.wikipedia.org, `~/.w3/wikipedia.org.js` and `~/.w3/wikipedia.org.css` will be included within the all pages.
+Chrome extension to customize the web with **JS**&**CSS** files organized under `~/.w3`.
 
+Example `.w3` directory;
+```bash
+$ ls ~/.w3
+flickr.com.css gmail.com.js wikipedia.org.css
+```
 **Supported OS/Distro:** Arch Linux
 
 # Install
